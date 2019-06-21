@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-16T19:07:38Z" name="Default suite" finished-at="2019-06-16T19:08:27Z" duration-ms="49134">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2019-06-16T19:07:38Z" name="Default test" finished-at="2019-06-16T19:08:27Z" duration-ms="49134">
+      <class name="com.fluentexpressqa.runners.CukesRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:07:38Z" name="setUpClass" finished-at="2019-06-16T19:07:38Z" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:07:38Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:07:45Z" duration-ms="7170" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["The existence of the correct login form"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:07:45Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:07:51Z" duration-ms="5364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Error message when password field is empty"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:07:51Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:07:56Z" duration-ms="5381" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Error message when username field is empty"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:07:56Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:08:01Z" duration-ms="5192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Error message when all fields is empty"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:08:01Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:08:08Z" duration-ms="6171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["The existence of the correct login form"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:08:08Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:08:14Z" duration-ms="6192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["The existence of the correct login form"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:08:14Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:08:22Z" duration-ms="8251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["The existence of the correct login form"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:08:22Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-06-16T19:08:27Z" duration-ms="5113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["The existence of the correct sign up form"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Signup Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.fluentexpressqa.runners.CukesRunner@4e268090]" started-at="2019-06-16T19:08:27Z" name="tearDownClass" finished-at="2019-06-16T19:08:27Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.fluentexpressqa.runners.CukesRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
